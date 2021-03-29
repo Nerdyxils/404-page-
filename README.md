@@ -64,5 +64,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website https://abiodun-silas.vercel.app/
-- GitHub https://{github.com/Nerdyxils}
-- Twitter https://{twitter.com/timi_dev
+- GitHub https://github.com/Nerdyxils
+- Twitter https://twitter.com/timi_dev
