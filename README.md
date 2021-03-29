@@ -63,6 +63,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://abiodun-silas.vercel.app/)
-- GitHub [@your-username](https://{github.com/Nerdyxils})
-- Twitter [@your-twitter](https://{twitter.com/timi_dev})
+- Website https://abiodun-silas.vercel.app/
+- GitHub https://{github.com/Nerdyxils}
+- Twitter https://{twitter.com/timi_dev
